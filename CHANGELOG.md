@@ -1,5 +1,16 @@
 # Changelog
 
+## Release (2024-08-09)
+
+auto-reveal-theme-mainmatter 0.1.3 (patch)
+
+#### :house: Internal
+* `auto-reveal-theme-mainmatter`
+  * [#8](https://github.com/mainmatter/auto-reveal-theme-mainmatter/pull/8) update release-plan ([@mansona](https://github.com/mansona))
+
+#### Committers: 1
+- Chris Manson ([@mansona](https://github.com/mansona))
+
 ## Release (2024-07-22)
 
 auto-reveal-theme-mainmatter 0.1.2 (patch)
